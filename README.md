@@ -1,2 +1,2 @@
 # POWER-BI-PROJECTS
-Amazon Prime Video Report Analysis
+Report Analysis
